@@ -1,1 +1,5 @@
 Hi welcome to git
+
+Hw is going
+
+it is a developers moto
